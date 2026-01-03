@@ -30,6 +30,15 @@ A modern, responsive, and interactive Hospital Management System web application
 │   └── js/             # Logic files (app.js, data.js, utils.js)
 ```
 
+## 🌐 Deployment (GitHub Pages)
+If you are deploying to GitHub Pages and seeing "Site not found":
+1.  Go to your Repository **Settings**.
+2.  Click **Pages** on the left sidebar.
+3.  Under **Build and deployment**, ensure **Source** is set to `Deploy from a branch`.
+4.  Under **Branch**, select `main` (or `master`) and folder `/ (root)`.
+5.  Click **Save**.
+6.  Wait 1-2 minutes and refresh the provided link.
+
 ## ⚡ How to Run
 
 1.  Simply download or clone this folder.
